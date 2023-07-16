@@ -10,11 +10,11 @@
 <h4>Install Linux / Termux</h4>
 <p>apt upgrade & update -y</p>
 <p>apt install python3 git -y</p>
-<p>git clone https://github.com/Raz-Ahamed/CCTV_Hack</p>
+<p>git clone https://github.com/Raz-Ahamed/I-Tracker</p>
 <p>pip install -r requirements.txt</p>
-<p>cd CCTV_Hack</p>
+<p>cd I-Tracker</p>
 <p>chmod +x *</p>
-<p>python3 cctv.py</p>
+<p>python3 track.py</p>
 
 <h1>Reach Out to me!</h1>
 <h5>I am available in email and messenger. You can message me (except hi/hello), I will reply within 24 hours. I can help you with Python, shell, web application, android app development.</h5>
